@@ -15,6 +15,8 @@ I dati sono suddivisi in grandi temi statistici, tra cui:
 - Trasporti
 - Innovazione e tecnologia
 
+![](./docs/01.png)
+
 Ogni dataset include anche metadati (unità di misura, frequenza, copertura geografica, ecc.).
 
 DBnomics mette a disposizione diversi strumenti per sviluppatori e analisti:
