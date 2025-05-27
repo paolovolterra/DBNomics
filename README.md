@@ -33,6 +33,8 @@ DBnomics mette a disposizione diversi strumenti per sviluppatori e analisti:
 
  ## [PIL|GDP](https://db.nomics.world/Eurostat/NAMQ_10_GDP?tab=list)
 
+![](./docs/02.png)
+
 - Gross domestic product (GDP) and main components per capita
 - Gross domestic product (GDP) and main components per capita
 - Gross domestic product (GDP) at current market prices by metropolitan region
@@ -67,3 +69,4 @@ Usa nama_10r_3gdp se ti servono dati a livello provinciale o metropolitano, es.:
 - namq_10_a10: Valore aggiunto per attività economica trimestrale
 - namq_10_nf_tr: Reddito e trasferimenti trimestrali
 
+![](./docs/03.png)
