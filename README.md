@@ -27,6 +27,7 @@ DBnomics mette a disposizione diversi strumenti per sviluppatori e analisti:
 
 - jupyter nbconvert eurostat.ipynb --to html --no-input per avere un output HTML senza codice
 - jupyter nbconvert --to html Eurostat.ipynb per avere HTML full
+- jupyter nbconvert eurostat.ipynb --to html --embed-images rimangono interattivi
 - voila eutostat.ipynb 
     - ✅ Mostra solo output e widget, non mostra nessuna cella di codice
     - ✅ Perfetto per presentazioni o pubblicazioni web
