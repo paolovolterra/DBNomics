@@ -2,6 +2,8 @@
 
 - https://opendata.marche.camcom.it/eurostat.htm
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolovolterra/DBNomics/blob/main/docs/eurostat.ipynb)
+
 piattaforma open-source e open-data che raccoglie e rende disponibili gratuitamente dati economici provenienti da decine di fonti ufficiali, tra cui Eurostat (statistica dell’UE)
 
 L’obiettivo è offrire un punto di accesso unificato ai dati economici, con API standardizzate e strumenti per analisi automatizzate.
