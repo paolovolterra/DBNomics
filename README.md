@@ -32,7 +32,13 @@ DBnomics mette a disposizione diversi strumenti per sviluppatori e analisti:
     - ✅ Mostra solo output e widget, non mostra nessuna cella di codice
     - ✅ Perfetto per presentazioni o pubblicazioni web
 
- ## [PIL|GDP](https://db.nomics.world/Eurostat/NAMQ_10_GDP?tab=list)
+## le 2 pagine dedicate
+
+- [senza codice](https://paolovolterra.github.io/DBNomics/eurostat.html)
+- [con codice](https://paolovolterra.github.io/DBNomics/Eurostat_full.html)
+
+
+## [PIL|GDP](https://db.nomics.world/Eurostat/NAMQ_10_GDP?tab=list)
 
 ![](./docs/02.png)
 
